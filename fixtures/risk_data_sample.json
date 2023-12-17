@@ -1,0 +1,25 @@
+{
+  "riskobjectdata": [
+    {
+      "riskObjectName": "Supplier1",
+      "riskObjectType": "Suppliers",
+      "BUlist": [ "Select all", "BusinessUnit1 - BU1" ],
+      "CATlist": [ "Select all", "Category1 - CAT1" ],
+      "PGlist": [ "Select all" ]
+    },
+    {
+      "riskObjectName": "Location1",
+      "riskObjectType": "Locations",
+      "BUlist": [ "Select all" ],
+      "CATlist": [ "Select all", "Category1 - CAT1" ],
+      "PGlist": [ "Select all" ]
+    },
+    {
+      "riskObjectName": "Customer1",
+      "riskObjectType": "Customers",
+      "BUlist": [ "Select all" ],
+      "CATlist": [ "Select all" ],
+      "PGlist": [ "Select all", "ProductGroup1 - PG1" ]
+    }
+  ]
+}
